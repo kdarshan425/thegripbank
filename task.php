@@ -21,7 +21,7 @@
     <div class="inner-user" style="overflow-y: auto;">
        <div>
            <center>
-           <img src="img/capture.png" style="width:80%;height:auto;" alt="task">
+           <img src="img/Capture.PNG" style="width:80%;height:auto;" alt="task">
            </center>
         </div>
     </div>
