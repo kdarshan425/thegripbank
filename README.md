@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="img/urllogo.png" alt="darshan khope" height="35" width="35">  Task 1 : Web development </h1><br>
+<h1 align="center"> Task 1 : Web development </h1><br>
 <h3><b>Aim  : </b></h3><p>To build basic banking system</p>
 
 <h2>Live URL : <a href="https://thegripbank.herokuapp.com/">https://thegripbank.herokuapp.com/</a></h2>
