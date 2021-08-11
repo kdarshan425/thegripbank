@@ -143,7 +143,7 @@ select{
             <th>NAME</th>
             <th>EMAIL</th>
             <th>BALANCE (RS.)</th>
-            <th>OPERATION</th>
+            <th>TIMESTAMP</th>
         <tr>
     
         <tr>
