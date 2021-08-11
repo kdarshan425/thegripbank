@@ -56,7 +56,7 @@
                 <th>NAME</th>
                 <th>EMAIL</th>
                 <th>BALANCE (RS.)</th>
-                <th>OPERATION</th>
+                <th>TRANSFER</th>
             <tr>
             <?php
             $sql = "SELECT * FROM `users` ";
